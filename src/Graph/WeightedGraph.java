@@ -1,0 +1,11 @@
+package Graph;
+
+import java.util.Scanner;
+
+public class WeightedGraph {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int vertex = sc.nextInt();
+        int edges = sc.nextInt();
+    }
+}
