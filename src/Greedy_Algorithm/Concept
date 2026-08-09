@@ -1,0 +1,16 @@
+Greedy Algorithm :
+
+Simple Definition : "At Every Steps it picks what looks best right now (like better solution in that particular step)
+                    without worrying about the future (Optimal Solution)"
+
+🔹 Key Idea
+    1.Solve the problem step by step
+    2.At each step, choose the locally optimal (best) option
+    3.Never go back and change decisions
+
+Question : [Solving with the help of striver Explanation]
+
+        1. 455. Assign Cookies (Leetcode Problem)
+        2. 860. Lemonade Change (Leetcode Problem)
+        3. 55. Jump Game (Leetcode Problem)
+        4. 45. Jump Game II (Leetcode Problem)
